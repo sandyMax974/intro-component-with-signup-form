@@ -1,10 +1,10 @@
 # Intro component with sign up form (Frontend Challenge)
 
-![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
-
 ## Requirements
 
 Your challenge is to build out this introductory component and get it looking as close to the design as possible.
+
+![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
